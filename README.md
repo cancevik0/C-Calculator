@@ -1,8 +1,8 @@
-#C ile Basit Hesap Makinesi
+# C ile Basit Hesap Makinesi
 
 Bu proje, C programlama dili kullanılarak yazılmış basit bir hesap makinesidir. Toplama, çıkarma, çarpma ve bölme işlemlerini destekler.
 
-##Özellikler
+## Özellikler
 4 temel matematiksel işlem (+, -, *, /)  
 Kullanıcı dostu menü  
 Tekrar işlem yapma seçeneği  
@@ -10,7 +10,7 @@ Sıfıra bölme kontrolü
 
 ---
 
-##Kullanım
+## Kullanım
 
 1. Projeyi klonlayın:
    ```bash
